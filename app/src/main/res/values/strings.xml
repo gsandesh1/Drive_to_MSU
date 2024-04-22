@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drive To MSU</string>
+    <string name="splash_text">You can easily navigate to MSU from your current location by car with the help of this app.</string>
+    <string name="splash_text1">On the home page, there is a button ‘Drive To MSU’. On clicking it, you will be redirected to Google Maps and navigation to MSU will start.</string>
+    <string name="home">Use the button below to navigate to MSU</string>
+    <string name="btn">Drive To MSU</string>
+</resources>
